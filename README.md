@@ -69,7 +69,7 @@ You can install them using pip:
 ```bash
 pip install pandas numpy matplotlib scikit-learn mlxtend
 
-## Conclusion
+## **Conclusion**
 
 This project demonstrates how to use a Logistic Regression model to predict placement status based on students' academic performance. The process involves data loading, exploration, preprocessing, model training, evaluation, and saving the model for future predictions.
 
