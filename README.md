@@ -1,4 +1,4 @@
-ghbvv# Placement Prediction Using Linear Regression
+hbvv# Placement Prediction Using Linear Regression
 
 ## Overview
 
