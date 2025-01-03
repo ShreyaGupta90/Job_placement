@@ -1,4 +1,4 @@
-v# Placement Prediction Using Linear Regression
+# Placement Prediction Using Linear Regression
 
 ## Overview
 
